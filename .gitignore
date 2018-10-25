@@ -1,8 +1,0 @@
-*/terraform.tfvars
-*/terraform.tfstate
-*/terraform.tfstate.backup
-*/.terraform
-*/build.log
-*/client.rb
-*/amivar.tf
-*/bhaskar-sjb-validator.pem
